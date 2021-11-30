@@ -48,4 +48,4 @@ yarn install
 
 ---
 
-Made with ❤️ by Matheus Sartori.
+Made by Matheus Sartori.
